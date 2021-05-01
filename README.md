@@ -1,4 +1,4 @@
-# Hi 👋
+## Hi 👋
 
 * I’m Aymen, a recent chemical engineering grad
 * I like Python, linux and open source, and write code of varying degrees of quality
