@@ -1,7 +1,7 @@
 ## Hi 👋
 
 I’m Aymen, a chemical engineer, recreational mathematician and (neo)vim nerd  
-I like Python, linux and open source, and write code of varying degrees of quality  
+I like Python, linux and open source  
 I also like to write about maths and engineering related things on [my blog](https://aymenhafeez.github.io/)  
 
 <!---
