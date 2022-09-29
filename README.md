@@ -1,6 +1,6 @@
-## Hi 👋
+## Hi 👋 I'm Aymen
 
-* I’m Aymen, a chemical engineer, recreational mathematician and (neo)vim nerd  
+* Chemical engineer, recreational mathematician, (Neo)vim nerd  
 * I like Python, linux and open source  
 * I also like to write about maths and engineering related things on [my blog](https://aymenhafeez.github.io/)  
 
